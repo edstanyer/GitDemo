@@ -1,5 +1,8 @@
 # GitDemo Repo
+
 this is a sample repository / sample app for the git course
+
+Add a new line
 
 ## How To Work With Git
 

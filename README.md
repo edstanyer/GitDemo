@@ -32,6 +32,7 @@ this is a sample repository / sample app for the git course
 | git | `push -u origin` branch    | Pushes branch to the remote         |
 | git | `reset --hard origin/main` | Reset current branch to remote head |
 | git | `revert` GUID              | Revert commit by id                 |
+| git | `amend`                    | Amend last commit or message        |
 
 ## Road Map
 

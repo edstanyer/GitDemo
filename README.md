@@ -23,6 +23,15 @@ this is a demo app for the git course
 
 </br>
 
+## Other Useful commands
+
+| Git | Command                |Description                                         |
+| --- | -----------------------|----------------------------------------------------|
+| git | `remote`               | Lists remotes connected to repo                    |
+| git | `remote show orign`    | Shows branches on remote                           | 
+| git | `push -u origin` branch| Pushes branch to the remote                        |
+
+
 ## Road Map
 
 - Add new features

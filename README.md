@@ -28,4 +28,4 @@ this is a demo app for the git course
 - Add new features
 - Fix the bugs
 
-##Coming next - Pull Requests
+## Coming next - Pull Requests

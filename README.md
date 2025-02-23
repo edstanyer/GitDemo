@@ -33,7 +33,8 @@ this is a sample repository / sample app for the git course
 | git | `reset --hard origin/main` | Reset current branch to remote head  |
 | git | `revert` GUID              | Revert commit by id                  |
 | git | `commit --amend`           | Amend last commit or message         |
-| git | `checkout` filename        | Checkout a file from the last commit |  
+| git | `checkout` _[filename]_    | Checkout a file from the last commit |
+| git | `rm --cached` _[filename]_ | Stop filename being tracked          |
 
 ## Road Map
 

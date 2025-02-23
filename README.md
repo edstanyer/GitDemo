@@ -1,6 +1,6 @@
 # GitDemo Repo
 
-this is a demo app for the git course
+this is a sample app for the git course
 
 ## How To Work With Git
 
@@ -25,12 +25,11 @@ this is a demo app for the git course
 
 ## Other Useful commands
 
-| Git | Command                |Description                                         |
-| --- | -----------------------|----------------------------------------------------|
-| git | `remote`               | Lists remotes connected to repo                    |
-| git | `remote show orign`    | Shows branches on remote                           | 
-| git | `push -u origin` branch| Pushes branch to the remote                        |
-
+| Git | Command                 | Description                     |
+| --- | ----------------------- | ------------------------------- |
+| git | `remote`                | Lists remotes connected to repo |
+| git | `remote show orign`     | Shows branches on remote        |
+| git | `push -u origin` branch | Pushes branch to the remote     |
 
 ## Road Map
 

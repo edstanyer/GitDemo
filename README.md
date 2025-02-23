@@ -26,14 +26,14 @@ this is a sample repository / sample app for the git course
 ## Other Useful commands
 
 | Git | Command                    | Description                          |
-| --- | -------------------------- | ------------------------------------ | --- |
+| --- | -------------------------- | ------------------------------------ |
 | git | `remote`                   | Lists remotes connected to repo      |
 | git | `remote show orign`        | Shows branches on remote             |
 | git | `push -u origin` branch    | Pushes branch to the remote          |
 | git | `reset --hard origin/main` | Reset current branch to remote head  |
 | git | `revert` GUID              | Revert commit by id                  |
 | git | `commit --amend`           | Amend last commit or message         |
-| git | `checkout` filename        | Checkout a file from the last commit |     |
+| git | `checkout` filename        | Checkout a file from the last commit |  
 
 ## Road Map
 
